@@ -1,0 +1,7 @@
+sql
+structure query language
+-we use select to retrieve data
+-insert into to insert new records
+-update to update existing records 
+-delete to deleting records
+-cre

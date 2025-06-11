@@ -23,7 +23,9 @@
 # print(ind)
 # cnt= areas.count(20.0)
 # print(cnt)
+#pytest -v app.py -- used for testing 
 
 y = [18, 5, 2, 4]
 y.reverse()
 print(y)
+
